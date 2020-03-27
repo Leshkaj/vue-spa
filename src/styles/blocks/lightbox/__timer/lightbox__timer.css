@@ -1,0 +1,8 @@
+.lightbox__timer  {
+    width: calc(15vh + 15px);
+    min-height: 5vh;
+    background: #F2F2F2;
+    text-align: center;
+    font-size: 16px;
+    
+}

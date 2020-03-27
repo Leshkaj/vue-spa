@@ -1,0 +1,13 @@
+@import url('./_active/lightbox__color_active.css');
+@import url('./_blinking/lightbox__color_blinking.css');
+@import url('./_green/lightbox__color_green.css');
+@import url('./_red/lightbox__color_red.css');
+@import url('./_yellow/lightbox__color_yellow.css');
+
+.lightbox__color {
+    width: 15vh;
+    height: 15vh;
+    border-radius: 7.5vh;
+    margin: 10px;
+    opacity: 0.2;
+}

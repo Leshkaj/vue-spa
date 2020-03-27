@@ -1,0 +1,12 @@
+@keyframes start_blink {
+    from {
+      opacity: 1;
+    }
+    to {
+      opacity: 0.2;
+    }
+  }
+
+.lightbox__color_blinking {
+    animation: start_blink 0.5s linear infinite alternate
+}

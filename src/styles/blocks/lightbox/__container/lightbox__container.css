@@ -1,0 +1,9 @@
+.lightbox__container {
+    margin: auto;
+    border-radius: 5vh;
+    background: #828282;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
