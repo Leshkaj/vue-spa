@@ -1,12 +1,7 @@
 # vue-spa
 
 > Vue.js project
-Приложение- Светофор с тремя экранами и настроенными рутами
-За 3 секунды до смена цвета, сигнал начинает мерцать.
-Для установки-
-Склонируйте репозиторий
-Установите зависимости (npm install)
-Запустите приложение( npm run start)
+
 
 ## Build Setup
 
@@ -21,4 +16,10 @@ npm run dev
 npm run build
 ```
 
+Приложение- Светофор с тремя экранами и настроенными рутами
+За 3 секунды до смена цвета, сигнал начинает мерцать.
+Для установки-
+Склонируйте репозиторий
+Установите зависимости (npm install)
+Запустите приложение( npm run start)
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
